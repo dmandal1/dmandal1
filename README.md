@@ -5,10 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmandal1&label=Profile%20views&color=0e75b6&style=flat" alt="dmandal1" /> </p>
 <img src="https://camo.githubusercontent.com/d3e809f523f13c60007f918a892a63e69ba4feeca642c0140c8847ed832b3b34/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" align="right" alt="Coding" width="400" style="border: 2px solid red"; />
 
-## _Hi there!_&nbsp;<img src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Mario_Hello_Big.gif" width="25px">
+## _Hi there!_&nbsp;<img src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Mario_Hello_Big.gif" width="25px" height="25px">
 
 _I build things for the **web**. <img alt="Globe Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/GlobeEmoji.png" width="18px">_  
-_Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" target="_blank"><img alt="Technologist Emoji" title="Deepak Kumar Mandal" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Developer.gif" width="75px"> </a>who is **obsessed** with the idea of **improving** himself.&nbsp; <img alt="Rocket Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/RocketEmoji.png" width="22px">_
+_Just a budding **Full Stack Developer** <a href="https://deepakmandal.in" target="_blank"><img alt="Technologist Emoji" title="Deepak Kumar Mandal" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/Developer.gif" width="45px" height="45px"> </a>who is **obsessed** with the idea of **improving** himself.&nbsp; <img alt="Rocket Emoji" src="https://github.com/dmandal1/dmandal1/blob/main/Assests/RocketEmoji.png" width="22px">_
 
 <br />
 
